@@ -28,7 +28,7 @@ randomNumber = random.randrange(1,30,1)
 
 "Begin loop for user input"
 while continueFlag:
-    "Iterate number of tries"
+    "Iterate number of tries..."
     countTries += 1
     
     "Request input to user"
